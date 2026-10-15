@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 430" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">Cl�nica Estimular</title>
+  <defs>
+    <linearGradient id="word" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#5eafb4"/>
+      <stop offset="100%" stop-color="#2f7d82"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(260 128)">
+    <g transform="translate(-58 -50) rotate(-22)">
+      <path fill="#f4c3d2" stroke="#e8b0c2" stroke-width="1.5" d="M-34-34h22c0 9 8 16 16 16s16-7 16-16h22v22c9 0 16 8 16 16s-7 16-16 16v22h-22c0-9-8-16-16-16s-16 7-16 16h-22v-22c-9 0-16-8-16-16s7-16 16-16z"/>
+    </g>
+    <g transform="translate(50 -46) rotate(16)">
+      <path fill="#f3e6a8" stroke="#e4d48c" stroke-width="1.5" d="M-34-34h22c0 9 8 16 16 16s16-7 16-16h22v22c9 0 16 8 16 16s-7 16-16 16v22h-22c0-9-8-16-16-16s-16 7-16 16h-22v-22c-9 0-16-8-16-16s7-16 16-16z"/>
+    </g>
+    <g transform="translate(-50 42) rotate(-8)">
+      <path fill="#c5e0c8" stroke="#b0d0b4" stroke-width="1.5" d="M-34-34h22c0 9 8 16 16 16s16-7 16-16h22v22c9 0 16 8 16 16s-7 16-16 16v22h-22c0-9-8-16-16-16s-16 7-16 16h-22v-22c-9 0-16-8-16-16s7-16 16-16z"/>
+    </g>
+    <g transform="translate(52 40) rotate(12)">
+      <path fill="#c5dcf0" stroke="#b0cce4" stroke-width="1.5" d="M-34-34h22c0 9 8 16 16 16s16-7 16-16h22v22c9 0 16 8 16 16s-7 16-16 16v22h-22c0-9-8-16-16-16s-16 7-16 16h-22v-22c-9 0-16-8-16-16s7-16 16-16z"/>
+    </g>
+  </g>
+  <text x="260" y="292" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="600" letter-spacing="10" fill="#3d868c">CL�NICA</text>
+  <text x="260" y="372" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="78" fill="url(#word)">Estimular</text>
+</svg>

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Depois de publicar, descomente e coloque o domínio real:
+# Sitemap: https://SEU-DOMINIO/sitemap.xml
